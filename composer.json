@@ -1,0 +1,12 @@
+{
+    "name": "xujy/hello-world",
+    "description": "this is a hello world repo for composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xjyfirst",
+            "email": "xujyfirst@gmail.com"
+        }
+    ],
+    "require": {}
+}
